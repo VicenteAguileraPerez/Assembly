@@ -2,7 +2,7 @@ COMMENT @
     Create by: Vicente Aguilera
     Date: May 4,2020
     In this proyect you can to use the video mode and put pixels into the
-    screen
+    screen.
     2. put the video mode and show one pixel
 @
 .model small
