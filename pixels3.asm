@@ -5,7 +5,7 @@ COMMENT @
     screen
     Repository: https://github.com/VicenteAguileraPerez/Assembly
     Topic:
-        3 Create a square or rectagle.
+        3. Create a square or rectagle.
 @
 .model small
 .stack  64
